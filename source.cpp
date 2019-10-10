@@ -8,7 +8,11 @@ int USCLN(int a, int b)
 	return a;
 }
 void ttlam(int a, int b);
+<<<<<<< HEAD
 void nhaca()
 {
 	cout<<"Chao cac ban!";
 }
+=======
+void Quynh(int x);
+>>>>>>> 48a631d4472b9884a6f762f8505f794e726191d6
