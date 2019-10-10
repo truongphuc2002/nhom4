@@ -8,3 +8,4 @@ int USCLN(int a, int b)
 	return a;
 }
 void ttlam(int a, int b);
+void Quynh(int x);
