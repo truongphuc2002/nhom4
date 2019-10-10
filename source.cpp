@@ -7,3 +7,4 @@ int USCLN(int a, int b)
 			b=b-a;
 	return a;
 }
+void ttlam(int a, int b);
